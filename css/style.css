@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section-1 {
+    background-color: rgb(10, 10, 240);
+    width: 80vw;
+    margin: 20px;
+    padding: 13px;
+    border: 2px solid black;
+}
+
+.texto-1 {
+    color: white;
+    text-align: center;
+    /* text-decoration:underline; */
+    text-transform: lowercase;
+    text-shadow: 2px 2px 2px black;
+}
+
+.texto-2 {
+    color: black;
+    margin: 10px 0;
+    text-align: end;
+    text-decoration: overline;
+    text-transform: capitalize;
+}
+
+.texto-3 {
+    color: yellow;
+    text-align: justify;
+    text-decoration: line-through double;
+    text-transform: uppercase;
+}
+
+.section-2 {
+    width: 80vw;
+    margin: 20px;
+    padding: 13px;
+    border: 2px solid black;
+    background-image: url(https://cdn.pixabay.com/photo/2023/05/09/18/50/bridge-7982238_1280.jpg);
+    background-position: 27% 19%;
+    background-repeat: no-repeat;
+    background-size: 96% 103%;
+    background-attachment: fixed;
+    /* opacity: 0.9; */
+}
+
+.section-2 ul {
+    margin: 10px 25px;
+    list-style: none
+    
+}

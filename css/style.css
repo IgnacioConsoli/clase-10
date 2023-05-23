@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 
 .section-1 {
@@ -9,7 +10,7 @@
     width: 80vw;
     margin: 20px;
     padding: 13px;
-    border: 2px solid black;
+    border: 2px solid black; 
 }
 
 .texto-1 {
@@ -52,4 +53,24 @@
     margin: 10px 25px;
     list-style: none
     
+}
+.div-1{ 
+    width: 350px;
+    height: 300px;
+    background-color: aqua;
+    border: solid red;
+    margin-bottom: 200px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 5px 2px rgba(213, 18, 18, 0.831);
+}
+.texto-4{
+    width: 300px;
+    padding: 15px;
+    margin: 15px;
+    border: 1px solid black;
+    }
+.texto-5{
+    width: 300px;
+    border: 1px solid black;
+    padding: 15px;
 }
